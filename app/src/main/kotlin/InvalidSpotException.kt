@@ -1,0 +1,1 @@
+class InvalidSpotException( msg : Any = "" ) : Exception( "This Spot Doesn't Exist : $msg" )

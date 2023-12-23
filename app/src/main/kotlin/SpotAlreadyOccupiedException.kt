@@ -1,0 +1,1 @@
+class SpotAlreadyOccupiedException( msg : Any = "" ) : Exception( "This Spot Has Already Been Occupied $msg" )
